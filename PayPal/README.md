@@ -1,10 +1,47 @@
 # Some JavaScript coding questions that were asked as part of the Staff Software Engineer role at PayPal in the past:
 
-Given a string, reverse the string and print it.
-Given an array of numbers, find the maximum number in the array and print it.
-Given a binary tree, print the inorder traversal of the tree.
-Given a linked list, reverse the linked list and print it.
-Given a string, find the longest substring that does not contain any repeated characters and print it.
+## General
+
+1. Given some positive integer n, write a method to return the fewest number of perfect square numbers which sum to n.
+2. On a given street, there's a bunch of houses and lamps nearby. It looks kind of like the following (H being houses, L being lamps):
+   SNIPPET
+   L H L H H
+   0 1 2 3 4
+   We decide to represent this with two arrays: one being the positions of the houses, and the other the positions of the lamps. From the above example, the arrays would be:
+   SNIPPET
+   houses = [1, 3, 4]
+   lamps = [0, 2]
+   With this knowledge, can you find out the minimum radius that the lamps would need to cover in order for every house to get access to light?
+
+## String
+
+1. Given a string, reverse the string and print it.
+2. Given a string, validate if its palindrome.
+3. Given a string, find the longest substring that does not contain any repeated characters and print it.
+4. Find a way to convert a string to a palindrome by inserting characters in front of it.
+5. You're given a string of random alphanumerical characters with a length between 0 and 1000. Write a method to return the first character in the string that does not repeat itself later on.
+
+## Array
+
+1. Given an array of numbers, find the maximum number in the array and print it.
+2. Write a code to find the number of rectangles on a chessboard.
+3. Dutch national flag problem : Given an array consisting of only 0s, 1s, and 2s, sort the elements in linear time and constant space.
+
+## Binary Tree
+
+1. Given a binary tree, print the inorder traversal of the tree.
+2. Given the binary tree, find its level order traversal.
+3. Print the right view of a binary tree.
+
+## Linked List
+
+1. Given a linked list, reverse the linked list and print it.
+2. Write a method getIntersection(list1, list2) to find the intersection of two linked lists?
+3. Convert a Linked List to a binary search tree?
+
+## Matrix
+
+Print a given matrix in spiral form.
 
 | Problem Link                                                                                                                              | Problem Name                                        | Num Occurrences |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- |
