@@ -6,18 +6,19 @@ Given a binary tree, print the inorder traversal of the tree.
 Given a linked list, reverse the linked list and print it.
 Given a string, find the longest substring that does not contain any repeated characters and print it.
 
-problem_link,problem_name,num_occur
-https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/,Reverse Substrings Between Each Pair of Parentheses,2
-https://leetcode.com/problems/squares-of-a-sorted-array/,Squares of a Sorted Array,2
-https://leetcode.com/problems/happy-number/,Happy Number,4
-https://leetcode.com/problems/number-of-islands/,Number of Islands,3
-https://leetcode.com/problems/lru-cache/,LRU Cache,2
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Best Time to Buy and Sell Stock,2
-https://leetcode.com/problems/trapping-rain-water/,Trapping Rain Water,3
-https://leetcode.com/problems/zigzag-conversion/,ZigZag Conversion,2
-https://leetcode.com/problems/median-of-two-sorted-arrays/,Median of Two Sorted Arrays,3
-https://leetcode.com/problems/longest-substring-without-repeating-characters/,Longest Substring Without Repeating Characters,2
-https://leetcode.com/problems/two-sum/,Two Sum,3
+| Problem Link                                                                                                                              | Problem Name                                        | Num Occurrences |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- |
+| [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Reverse Substrings Between Each Pair of Parentheses | 2               |
+| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                     | Squares of a Sorted Array                           | 2               |
+| [Happy Number](https://leetcode.com/problems/happy-number/)                                                                               | Happy Number                                        | 4               |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                     | Number of Islands                                   | 3               |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                     | LRU Cache                                           | 2               |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                         | Best Time to Buy and Sell Stock                     | 2               |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                 | Trapping Rain Water                                 | 3               |
+| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                     | ZigZag Conversion                                   | 2               |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                 | Median of Two Sorted Arrays                         | 3               |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)           | Longest Substring Without Repeating Characters      | 2               |
+| [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                         | Two Sum                                             | 3               |
 
 # Practice questions:
 
