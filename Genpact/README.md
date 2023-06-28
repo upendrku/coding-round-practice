@@ -1,6 +1,6 @@
 Given a string, implement a function to find the longest substring without repeating characters. ---
 Given a string, find the first occurrence of a given substring in the string.
-Given a string, implement a function to check if the string is a balanced parenthesis string.
+Given a string, implement a function to check if the string is a balanced Parentheses string.
 Given a string, implement a function to check if the string is a palindrome.
 Given a string, find the number of ways to partition the string into palindromes.
 
